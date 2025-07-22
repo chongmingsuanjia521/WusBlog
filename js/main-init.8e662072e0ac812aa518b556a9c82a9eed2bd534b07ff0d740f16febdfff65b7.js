@@ -1,6 +1,6 @@
 (() => {
   // ns-hugo-params:/tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/razonyang/hugo-theme-bootstrap@v1.13.2/assets/js/local-storage/index.ts
-  var local_storage_default = { baseURL: "https://projects.razonyang.com/hugo-theme-bootstrap-skeleton/" };
+  var local_storage_default = { baseURL: "https://congenial-space-barnacle-x5v67jxv64jwc6xw7.github.dev/" };
 
   // ns-hugo-imp:/tmp/hugo_cache_runner/modules/filecache/modules/pkg/mod/github.com/razonyang/hugo-theme-bootstrap@v1.13.2/assets/js/local-storage/index.ts
   var PathLocalStorage = class {
