@@ -1,4 +1,4 @@
-module github.com/razonyang/hugo-theme-bootstrap-skeleton
+module github.com/chongmingsuanjia521/WusBlog
 
 go 1.18
 
